@@ -11,6 +11,12 @@
 5.git fetch
 6.git push -u origin master
 
+
+只要有編寫過，就要add . -> commit -> push
 --------------------
 git add . 之後可以使用 git gui
 再去commit接續下去
+
+
+--------------------
+當然也可以使用官網的方法~~
