@@ -10,3 +10,7 @@
 4.git remote add origin https://github.com/leo860808/git_study.git
 5.git fetch
 6.git push -u origin master
+
+--------------------
+git add . 之後可以使用 git gui
+再去commit接續下去
