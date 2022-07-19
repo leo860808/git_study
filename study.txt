@@ -43,6 +43,8 @@ git diff 可以查看當前有修改的檔案
 	1-1)遇到/.git/index.lock': File exists.
 	可以用 rm -f .git/index.lock
 
+	1-2)如果有submodule 就要切到下面的路徑才可以知道目前更改的情況
+
 2)如果想回復檔案的話可以參考網址 : https://w3c.hexschool.com/git/1b44e53
 單一檔案指令 ：git checkout -- <file>
 全部檔案指令：git checkout .
