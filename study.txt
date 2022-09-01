@@ -48,4 +48,7 @@ git diff 可以查看當前有修改的檔案
 2)如果想回復檔案的話可以參考網址 : https://w3c.hexschool.com/git/1b44e53
 單一檔案指令 ：git checkout -- <file>
 全部檔案指令：git checkout .
+
+3)如果遇到 fatal: bad config line 1 in file C:/Users/pc.wu/.gitconfig 
+代表gitconfig有問題，可以進去把資料全部刪掉，就可以重新push了
 --------------------
